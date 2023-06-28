@@ -1,0 +1,9 @@
+Eta es la historia  de Hugo Carvajalino queriendo aprender 
+
+comandos de Git, y modificando el articulo.
+
+Un nuevo parrafo agregado para probar modificacion de archivo.
+
+Hoy es el Ceo de Platzi.
+
+Hoy hablaremos de su vida y obra maestra.
