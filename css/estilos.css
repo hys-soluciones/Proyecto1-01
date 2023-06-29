@@ -8,25 +8,13 @@ body {
     padding: 0;
 }
 #cabecera {
-<<<<<<< HEAD
-    background: #37488b;
-    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
-=======
     background: #33a;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.75);
->>>>>>> footer
     color: #fff;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
 }
-<<<<<<< HEAD
-#cabecera #logo {
-    width: 20px;
-    vertical-align: middle;
-}
-=======
->>>>>>> footer
 #cabecera #tagline {
     padding: 0 0 0 1em;
     font-weight: normal;
@@ -44,11 +32,6 @@ body {
     font-size: 20px;
 }
 #post {
-<<<<<<< HEAD
-    background: white;
-    padding: 1em;
-}
-=======
     padding: 1em;
 }
 #footer {
@@ -57,4 +40,3 @@ body {
     text-align: center;
     padding: 0.5em;
 }
->>>>>>> footer
