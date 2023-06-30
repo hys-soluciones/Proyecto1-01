@@ -6,4 +6,6 @@ Un nuevo parrafo agregado para probar modificacion de archivo.
 
 Hoy es el Ceo de Platzi.
 
+Master 1
+
 Hoy hablaremos de su vida y obra maestra.
